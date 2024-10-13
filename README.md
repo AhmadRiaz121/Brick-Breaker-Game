@@ -42,5 +42,3 @@ This code implements a "Break Breaker" game that includes features like a ball, 
 - **Keyboard/Mouse Controls**: Arrow keys to move the top paddle, and the mouse to move the bottom paddle.
 - **Game Over**: When lives reach zero, the game displays a "Game Over" message and stops updating.
 - **Save Score**: Saves the player's score in a text file.
-
-This setup provides a classic brick breaker experience, with additional challenges like power-ups and multiple levels. Do you need any specific changes or further clarification on this code?
